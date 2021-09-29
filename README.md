@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FalconSupernova.
-- 👀 I’m interested in flutter android app development, ROS programming.
+- 👀 I’m interested in flutter android app development, ROS programming, AI.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on android app development and machine learning.
 - 📫 You can reach me through email - jainikjmehta@gmail.com.
